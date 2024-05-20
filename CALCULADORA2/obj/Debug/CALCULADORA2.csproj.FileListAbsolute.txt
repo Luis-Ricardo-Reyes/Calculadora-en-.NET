@@ -1,0 +1,11 @@
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\bin\Debug\CALCULADORA2.exe.config
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\bin\Debug\CALCULADORA2.exe
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\bin\Debug\CALCULADORA2.pdb
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\obj\Debug\CALCULADORA2.csproj.AssemblyReference.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\obj\Debug\CALCULADORA2.csproj.SuggestedBindingRedirects.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\obj\Debug\CALCULADORA2.Form1.resources
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\obj\Debug\CALCULADORA2.Properties.Resources.resources
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\obj\Debug\CALCULADORA2.csproj.GenerateResource.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\obj\Debug\CALCULADORA2.csproj.CoreCompileInputs.cache
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\obj\Debug\CALCULADORA2.exe
+C:\Users\reyri\OneDrive\Escritorio\.NET\repos\CALCULADORA2\CALCULADORA2\obj\Debug\CALCULADORA2.pdb
